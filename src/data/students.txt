@@ -1,0 +1,4 @@
+1233|Ayaz|ayz@gmail.com|09876543211|CS|2
+1234|Ashar|ashr@gmail.com|09876543210|CS|2
+1234|Hamza|hmza@gmail.com|23456787|CS|2
+1235|Zeeshan|zeshan@gmail.com|09876543212|CS|2
