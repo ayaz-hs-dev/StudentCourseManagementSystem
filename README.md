@@ -196,7 +196,8 @@ S001|Ali Hassan|ali@uni.edu|0300-1234567|Computer Science|2
 ### Clone Repository
 
 ```bash
-git clone https://github.com/ayaz-hs-dev/student-course-management-system.git
+git clone https://github.com/ayaz-hs-dev/StudentCourseManagementSystem.git
+
 ```
 
 ### Navigate to Project
