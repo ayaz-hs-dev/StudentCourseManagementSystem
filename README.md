@@ -203,7 +203,7 @@ git clone https://github.com/ayaz-hs-dev/StudentCourseManagementSystem.git
 ### Navigate to Project
 
 ```bash
-cd student-course-management-system
+cd StudentCourseManagementSystem
 ```
 
 ### Compile
